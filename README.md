@@ -1,4 +1,4 @@
-# Coolour-Picker Spaßprojekt 
+# Coolour-Picker (Spaßprojekt) 
 Farben auswählen und hexdezimal sowie RGB wert ausgeben lassen
 
 ## Suchen der Farbe:
